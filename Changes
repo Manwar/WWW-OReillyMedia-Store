@@ -1,5 +1,10 @@
 Revision history for WWW-OReillyMedia-Store
 
+0.10  Sat Jan 17 10:55:00 2015
+      - Removed SIGNATURE file.
+      - Updated MANIFEST.SKIP file to ignore folder 'eumm/'.
+      - Updated Copyright year information.
+
 0.09  Sun Sep 21 02:30:29 2014
       - Updated method new_books() and upcoming_books() to call the method _fetch correctly.
       - Fixed the typo in th method _fetch().

@@ -1,6 +1,6 @@
 package WWW::OReillyMedia::Store;
 
-$WWW::OReillyMedia::Store::VERSION = '0.09';
+$WWW::OReillyMedia::Store::VERSION = '0.10';
 
 =head1 NAME
 
@@ -8,7 +8,7 @@ WWW::OReillyMedia::Store - Interface to the OReilly Media Store.
 
 =head1 VERSION
 
-Version 0.09
+Version 0.10
 
 =cut
 
@@ -131,7 +131,7 @@ L<http://search.cpan.org/dist/WWW-OReillyMedia-Store/>
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright (C) 2011 - 2014 Mohammad S Anwar.
+Copyright (C) 2011 - 2015 Mohammad S Anwar.
 
 This  program  is  free software; you can redistribute it and/or modify it under
 the  terms  of the the Artistic License (2.0). You may obtain a copy of the full
